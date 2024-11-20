@@ -4,6 +4,10 @@
 
 EcoVoyage is a cutting-edge AI-powered travel assistant developed using IBM Watson X, designed to make your travel planning not just easy but also eco-friendly and affordable. Whether you're setting out to explore new destinations or planning your next getaway, EcoVoyage has you covered with a range of smart features to enhance every aspect of your journey.
 
+## 🔗 Link demo 
+
+https://bit.ly/eco_voyage_demo
+
 ## 💡 Features  
 
 - Essential details about your destination, including cultural significance and key information.  
@@ -18,6 +22,29 @@ EcoVoyage is a cutting-edge AI-powered travel assistant developed using IBM Wats
 - IBM Watsonx Assistant
 - LLM (ibm/granite-13b-chat-v2)
 - IBM Cloud
+
+## 🔨 How to start : 
+
+1. Access the demo by accessing this link https://bit.ly/eco_voyage_demo
+
+2. Click the blue chat button on the right bottom corner of website
+![](images/how_to_use1.png)
+
+3. Click the button of "Start EcoVoyage" to start 
+![](images/how_to_use2.png)
+
+4. Input the city that you're planning to visit
+![](images/how_to_use3.png)
+
+5. Input the country of your location : 
+![](images/how_to_use4.png)
+
+6. The chatbot retrieves the basic information of your location, and if you need other information you can just select on "Select an option" 
+![](images/how_to_use5.png)
+
+7. You can select the information of accommodations and recommended activities, and if you want to end the conversation just select "No"
+![](images/how_to_use6.png)
+
 
 ## ⚙️Flow Chart
 ![](images/diagram-flowchart.png)
@@ -41,8 +68,4 @@ EcoVoyage is a cutting-edge AI-powered travel assistant developed using IBM Wats
 		- Lastly, the chatbot provides tailored safety tips specific to the user’s destination, ensuring they have useful information to stay safe and secure during their trip.
 	- No : 
 		- The chatbot will end the conversation
-
-## 🔗 Link demo 
-
-https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Feu-gb.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-cd5f93ad-32c8-4fe1-ba94-1e07c58bc39c%3A%3A40cfe083-b11b-4d97-a628-85963fede557&integrationID=05fb064f-415c-4c16-93d5-5c934a669352&region=eu-gb&serviceInstanceID=cd5f93ad-32c8-4fe1-ba94-1e07c58bc39c
 
