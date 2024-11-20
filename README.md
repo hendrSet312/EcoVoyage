@@ -47,7 +47,7 @@ https://bit.ly/eco_voyage_demo
 
 ![](images/how_to_use5.png)
 
-7. You can select the information of accommodations and recommended activities, and if you want to end the conversation just select "No"
+7. You can select the information of accommodations until recommended activities, and if you want to end the conversation just select "No"
 
 ![](images/how_to_use6.png)
 
