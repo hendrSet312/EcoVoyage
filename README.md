@@ -28,21 +28,27 @@ https://bit.ly/eco_voyage_demo
 1. Access the demo by accessing this link https://bit.ly/eco_voyage_demo
 
 2. Click the blue chat button on the right bottom corner of website
+
 ![](images/how_to_use1.png)
 
 3. Click the button of "Start EcoVoyage" to start 
+
 ![](images/how_to_use2.png)
 
 4. Input the city that you're planning to visit
+
 ![](images/how_to_use3.png)
 
-5. Input the country of your location : 
+5. Input the country of your location 
+
 ![](images/how_to_use4.png)
 
-6. The chatbot retrieves the basic information of your location, and if you need other information you can just select on "Select an option" 
+6. The chatbot retrieves the basic information of your location, and if you need other information you can just select on "Select an option"
+
 ![](images/how_to_use5.png)
 
 7. You can select the information of accommodations and recommended activities, and if you want to end the conversation just select "No"
+
 ![](images/how_to_use6.png)
 
 
